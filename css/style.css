@@ -10933,7 +10933,7 @@ h3.top-border.count-number:before{
 
   border: 0 none;
 
-  max-height: 700px;
+  max-height: 450px;
 
   overflow: hidden;
 
@@ -27133,3 +27133,6 @@ text-align:center;
 .footer--sitemap{
   font-size: 14px;
   }
+.maps iframe {
+	pointer-events: none;
+}
