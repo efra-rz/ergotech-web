@@ -27140,3 +27140,7 @@ text-align:center;
 .menu-active{
   background-color:rgba(255,0,0,.1)!important;
   }
+
+.ficha__tecnica--centrar-imagen{
+  text-align: center;
+  }
