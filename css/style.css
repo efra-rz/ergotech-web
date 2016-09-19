@@ -27144,3 +27144,8 @@ text-align:center;
 .ficha__tecnica--centrar-imagen{
   text-align: center;
   }
+.precio{
+  font-family: Oswald;
+  font-size: 1.5em;
+  margin-top: 1.5em;
+}
