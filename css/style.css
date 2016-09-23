@@ -27149,3 +27149,10 @@ text-align:center;
   font-size: 1.5em;
   margin-top: 1.5em;
 }
+
+.footer-logo{
+  margin: 2em 0;
+  }
+  .footer-logo img{
+    max-width: 200px;
+    }
